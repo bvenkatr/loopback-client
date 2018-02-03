@@ -1,2 +1,2 @@
 # loopback-client
-Client to communicate with any loopback app
+HTTP Client to communicate with any loopback app
